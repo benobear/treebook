@@ -9,6 +9,10 @@ gem 'sqlite3'
 gem 'devise'
 gem 'simple_form'
 
+group :development, :test do
+	gem 'sqlite3'
+end
+
 
 # Gems used only for assets and not required
 # in production environments by default.
