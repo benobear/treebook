@@ -4,3 +4,9 @@ ben:
   last_name: "Obear"
   email: "benobear@gmail.com" 
   profile_name: "bobear"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com" 
+  profile_name: "jimhoskins"
